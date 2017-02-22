@@ -7,4 +7,4 @@
 ####4.[UIInterfaceOrientation](https://github.com/slodier/Commonly-used-code/blob/master/4-UIInterfaceOrientation.md)
 ####5.[Sandbox](https://github.com/slodier/Commonly-used-code/blob/master/5-Sandbox.md)
 ####6.[网络相关](https://github.com/slodier/Commonly-used-code/blob/master/6-Internet.md)
-####7.[Color](https://github.com/slodier/Commonly-used-code/blob/master/7.Color.md)
+####7.[Color](https://github.com/slodier/Commonly-used-code/blob/master/7-Color.md)
